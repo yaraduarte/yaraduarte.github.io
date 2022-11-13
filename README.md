@@ -14,4 +14,4 @@ Tecnologias que estou estudando atualmente:
 
 ![Imagem](https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e475w4xtgmxf778ivmxtfk839vjv0z1btwcj7dw3w6a&rid=giphy.gif&ct=g)
 
-[![Linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRf35OIooTdHPPZt2WvrTYWk-oQuzor6VZPgo4xP82&s)(https://www.linkedin.com/in/yaralauritoduarte/)
+[![Linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRf35OIooTdHPPZt2WvrTYWk-oQuzor6VZPgo4xP82&s)](https://www.linkedin.com/in/yaralauritoduarte/)

@@ -17,10 +17,10 @@ No pessoal, sou uma pessoa que gosta de aprender! Seja sobre cultura, costumes, 
 
 ## Aqui estão alguns dos meus projetos/estudos:
 
-- [![api-rest]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRf35OIooTdHPPZt2WvrTYWk-oQuzor6VZPgo4xP82&s](https://github.com/yaraduarte/api-rest))]
-
-
-<!-- ![Imagem](https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e475w4xtgmxf778ivmxtfk839vjv0z1btwcj7dw3w6a&rid=giphy.gif&ct=g) -->
+- [first-api](https://github.com/yaraduarte/first-api)
+- [api-rest](https://github.com/yaraduarte/api-rest)
+- [herbs-tutorial](https://github.com/yaraduarte/herbs-tutorial)
 
 ## Aqui estão meus contatos:
-[![Linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRf35OIooTdHPPZt2WvrTYWk-oQuzor6VZPgo4xP82&s)](https://www.linkedin.com/in/yaralauritoduarte/)
+[![Linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRf35OIooTdHPPZt2WvrTYWk-oQuzor6VZPgo4xP82&s)](https://www.linkedin.com/in/yaralauritoduarte/)[![E-mail](https://img.ibxk.com.br/2014/11/programas/70504815.png)](mailto:yaralauritoduarte@gmail.com)[![Whatsapp](https://scontent.fstu6-1.fna.fbcdn.net/v/t39.8562-6/302524815_3448899778679909_2843186333341006023_n.png?_nc_cat=104&ccb=1-7&_nc_sid=6825c5&_nc_ohc=56TFYGjJBrcAX8OOdJz&_nc_ht=scontent.fstu6-1.fna&oh=00_AfDTcYBXiU5vdNaPCPtqDTJhukQmnGM3pUn7lFAuh0jgdQ&oe=63D348CF)](https://wa.me/5524998123243)
+

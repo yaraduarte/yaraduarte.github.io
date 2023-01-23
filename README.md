@@ -25,6 +25,6 @@ No pessoal, sou uma pessoa que gosta de aprender! Seja sobre cultura, costumes, 
 
 [<img src="https://img.ibxk.com.br/2014/11/programas/70504815.png" width="50"/>](mailto:yaralauritoduarte@gmail.com)
 
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRf35OIooTdHPPZt2WvrTYWk-oQuzor6VZPgo4xP82&s" width="100"/>](https://www.linkedin.com/in/yaralauritoduarte/)
+[<img src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg" width="50"/>](https://www.linkedin.com/in/yaralauritoduarte/)
 
-[<img src="https://scontent.fstu6-1.fna.fbcdn.net/v/t39.8562-6/302524815_3448899778679909_2843186333341006023_n.png?_nc_cat=104&ccb=1-7&_nc_sid=6825c5&_nc_ohc=56TFYGjJBrcAX8OOdJz&_nc_ht=scontent.fstu6-1.fna&oh=00_AfDTcYBXiU5vdNaPCPtqDTJhukQmnGM3pUn7lFAuh0jgdQ&oe=63D348CF" width="200"/>](https://wa.me/5524998123243)
+[<img src="https://t.ctcdn.com.br/63V25kDFoZnMMF2WjQavNUcoawY=/400x400/smart/filters:format(webp)/i618809.png" width="50"/>](https://wa.me/5524998123243)

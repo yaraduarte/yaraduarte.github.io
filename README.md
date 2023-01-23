@@ -19,6 +19,8 @@ No pessoal, sou uma pessoa que gosta de aprender! Seja sobre cultura, costumes, 
 - [first-api](https://github.com/yaraduarte/first-api)
 - [api-rest](https://github.com/yaraduarte/api-rest)
 - [herbs-tutorial](https://github.com/yaraduarte/herbs-tutorial)
+- [machine-learning-linearsvc-accurancy](https://github.com/yaraduarte/machine-learning-linearsvc-accurancy)
+- [machine-learning-model-selection] (https://github.com/yaraduarte/machine-learning-model-selection)
 
 ## Aqui estão meus contatos:
 

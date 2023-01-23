@@ -23,8 +23,4 @@ No pessoal, sou uma pessoa que gosta de aprender! Seja sobre cultura, costumes, 
 
 ## Aqui estão meus contatos:
 
-[<img src="https://img.ibxk.com.br/2014/11/programas/70504815.png" width="50"/>](mailto:yaralauritoduarte@gmail.com)
-
-[<img src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg" width="50"/>](https://www.linkedin.com/in/yaralauritoduarte/)
-
-[<img src="https://t.ctcdn.com.br/63V25kDFoZnMMF2WjQavNUcoawY=/400x400/smart/filters:format(webp)/i618809.png" width="50"/>](https://wa.me/5524998123243)
+[<img src="https://img.ibxk.com.br/2014/11/programas/70504815.png" width="50"/>](mailto:yaralauritoduarte@gmail.com)     [<img src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg" width="50"/>](https://www.linkedin.com/in/yaralauritoduarte/)     [<img src="https://t.ctcdn.com.br/63V25kDFoZnMMF2WjQavNUcoawY=/400x400/smart/filters:format(webp)/i618809.png" width="50"/>](https://wa.me/5524998123243)
